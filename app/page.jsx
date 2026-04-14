@@ -94,7 +94,7 @@ export default function NanoBioSystemLabPage() {
       email: 'yhcho@seoultech.ac.kr',
       tel: '02-970-6361',
       lab: '프론티어관 1007호 / 혜성관 406호',
-      image: '/professor.jpg',
+      image: '/professor.jpg.jpg',
       education: [
         'B.S. — Seoul National University',
         'M.S. — Seoul National University',
